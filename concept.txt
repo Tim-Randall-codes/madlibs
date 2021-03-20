@@ -1,0 +1,13 @@
+Thing explains that the user will be presented with a sentence with a gap
+They will have to type in a word to fill the gap
+
+Each sentence will have its own page
+Each word will be saved as an object
+Then at the end in a text widget the thing will be put together
+
+First page will have explanation and continue button
+Next four pages will have a sentence label, an entry box and a continue button
+Each entry will be saved as an object, if they enter nothing, an output will
+tell them to enter something and not let them pass
+The sixth window will have a text widget showing all they have entered and asking
+them if they wish to continue or exit the app. 
